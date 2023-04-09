@@ -1,6 +1,9 @@
 # about_me_watchos
 
-https://user-images.githubusercontent.com/82909291/230777825-6bc81caa-21a8-4120-b8e7-cc0b431f2e77.mp4
+
+https://user-images.githubusercontent.com/82909291/230788179-e542ff90-6901-4255-9c98-ae4d4ca07e6c.mp4
+
+
 
 
 
